@@ -31,6 +31,7 @@ I then searched for *“polar bears San Diego Zoo cam”* and quickly reached th
 
 ![Official Site](assets/official.png)
 
+![Official Site](assets/official2.png)
 ---
 
 ### 2. Location Verification  
