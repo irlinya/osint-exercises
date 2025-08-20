@@ -24,7 +24,12 @@ At first glance, the picture itself didn’t reveal many obvious landmarks. So I
 ### 1. Image Reverse Search  
 I uploaded the screenshot to Google Images and added the keyword *“live cam”*. Almost immediately, a Facebook post appeared showing very similar polar bear images, even with some notes about temperature. This looked promising but I wanted to verify further.  
 
+![Facebook](assets/facebook.png)
+
+
 I then searched for *“polar bears San Diego Zoo cam”* and quickly reached the **official live cam site**.  
+
+![Official Site](assets/official.png)
 
 ---
 
