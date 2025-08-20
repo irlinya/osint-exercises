@@ -1,5 +1,14 @@
 # OSINT Walkthrough – Polar Bear Live Cam
 
+---
+
+## Credits  
+
+This walkthrough is based on **OSINT Exercise #005** by [Gralhix](https://gralhix.com/list-of-osint-exercises/osint-exercise-005/).  
+All credit for creating the original challenge goes to the author.  
+
+---
+
 ## Challenge  
 
 > “The image below is a screenshot from a zoo live cam. It was taken on January 15, 2023 at around 2pm local time. Please answer the questions below:  
