@@ -37,7 +37,12 @@ I then searched for *“polar bears San Diego Zoo cam”* and quickly reached th
 ### 2. Location Verification  
 I switched to **Google Earth Pro** to check the enclosure. At first, the area was too large and I couldn’t spot the exact place. Returning to the official site, I noticed the enclosure was named **“Polar Bear Plunge”**.  
 
+![Google Earth Pro](assets/earth.png)
+
 Searching again with this keyword helped me locate the right area. Dropping the yellow Street View figure and checking historical views (including 2023) confirmed that the structural details in the enclosure matched the screenshot.  
+
+![Google Earth Pro](assets/map.png)
+
 From here, I was able to extract the exact coordinates.  
 
 **Coordinates found:** `32.734456, -117.154589`  
@@ -49,6 +54,8 @@ Since I had the **date, time, and location**, I looked up historical weather dat
 Using [World Weather Info](https://world-weather.info/), I navigated to **January 15, 2023** in San Diego. The report listed the temperature in Fahrenheit.  
 
 **Temperature found:** ~54°F  
+
+![Weather](assets/weather.png)
 
 ---
 
